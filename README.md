@@ -1,4 +1,4 @@
-# Hi, I'm Kritika 👋
+# Hi, I'm Kritika Regmi
 
 I'm a software engineer who likes building things end to end: the backend, the API, and the part people actually click on.
 I just graduated with a B.S. in Computer Science(Magna Cum Laude), and I'm looking for
@@ -28,7 +28,3 @@ new grad roles in AI/ML and full-stack engineering.
 | [DocAssist](https://github.com/KritiikaaR/DocAssist) | Upload documents and chat with them. Streams answers, remembers the conversation, and can quiz you on what you uploaded. | Flask, React, LangChain, FAISS, GPT-4o |
 | [Flower Classifier](https://github.com/KritiikaaR/Flower_classifier) · [Live](https://flowerclassifier01.streamlit.app) | Identifies 102 flower species from a photo using transfer learning. 88.2% test accuracy. | PyTorch, ResNet18, Streamlit |
 | [GradGlow](https://github.com/KritiikaaR/GradGlow) | Team project that flags students at risk of failing early, with dashboards for students and advisors. | FastAPI, React, scikit-learn, SQLite |
-
-## GitHub stats
-
-![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=KritiikaaR&show_icons=true&hide_border=true)
