@@ -1,7 +1,7 @@
 # Hi, I'm Kritika Regmi
 
 I'm a software engineer who likes building things end to end: the backend, the API, and the part people actually click on.
-I just graduated with a B.S. in Computer Science(Magna Cum Laude), and I'm looking for
+I just graduated with a B.S. in Computer Science (Magna Cum Laude), and I'm looking for
 new grad roles in AI/ML and full-stack engineering.
 
 - Right now I'm building **QueryPilot**, an app that answers plain-English questions about a database
@@ -11,12 +11,12 @@ new grad roles in AI/ML and full-stack engineering.
 
 ## Skills
 
-**Languages:** Python, JavaScript, SQL, HTML/CSS
-**Backend:** FastAPI, Flask, Node.js, Express
-**Frontend:** React, Vite
-**AI/ML:** OpenAI API, LangChain, FAISS, PyTorch, scikit-learn
-**Data:** SQLite, MongoDB
-**Tools:** Docker, Git, GitHub Actions, pytest, Figma
+- **Languages:** Python, JavaScript, SQL, HTML/CSS
+- **Backend:** FastAPI, Flask, Node.js, Express
+- **Frontend:** React, Vite
+- **AI/ML:** OpenAI API, LangChain, FAISS, PyTorch, scikit-learn
+- **Data:** SQLite, MongoDB
+- **Tools:** Docker, Git, GitHub Actions, pytest, Figma
 
 [![Skills](https://skillicons.dev/icons?i=python,js,react,vite,fastapi,flask,nodejs,express,pytorch,sklearn,sqlite,mongodb,docker,githubactions,git,figma&perline=8)](https://skillicons.dev)
 
