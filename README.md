@@ -24,7 +24,7 @@ new grad roles in AI/ML and full-stack engineering.
 
 | Project | What it does | Built with |
 |---|---|---|
-| [QueryPilot](https://github.com/KritiikaaR/querypilot) | Ask questions about a pizza shop's sales in plain English. It writes the SQL, checks it's safe, runs it, and explains the answer. 96.7% accuracy on a 30-question eval. | FastAPI, React, OpenAI, SQLite, Docker |
+| [QueryPilot](https://github.com/KritiikaaR/querypilot) · [Live](https://querypilot-smoky.vercel.app/) | Ask questions about a pizza shop's sales in plain English. It writes the SQL, checks it's safe, runs it, and explains the answer. 96.7% accuracy on a 30-question eval. | FastAPI, React, OpenAI, SQLite, Docker |
 | [DocAssist](https://github.com/KritiikaaR/DocAssist) | Upload documents and chat with them. Streams answers, remembers the conversation, and can quiz you on what you uploaded. | Flask, React, LangChain, FAISS, GPT-4o |
 | [Flower Classifier](https://github.com/KritiikaaR/Flower_classifier) · [Live](https://flowerclassifier01.streamlit.app) | Identifies 102 flower species from a photo using transfer learning. 88.2% test accuracy. | PyTorch, ResNet18, Streamlit |
 | [GradGlow](https://github.com/KritiikaaR/GradGlow) | Team project that flags students at risk of failing early, with dashboards for students and advisors. | FastAPI, React, scikit-learn, SQLite |
