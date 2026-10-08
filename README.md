@@ -4,7 +4,6 @@ I'm a software engineer who likes building things end to end: the backend, the A
 I just graduated with a B.S. in Computer Science (Magna Cum Laude), and I'm looking for
 new grad roles in AI/ML and full-stack engineering.
 
-- Right now I'm building **QueryPilot**, an app that answers plain-English questions about a database
 - Learning: LLM evals, Docker, and deploying things properly
 - Ask me about: RAG, text-to-SQL, React + FastAPI apps
 - Reach me: krtkregmi@gmail.com · [LinkedIn](https://www.linkedin.com/in/kritika-regmi-5a2680258)
